@@ -262,23 +262,23 @@ The dataset contains employee-level information used for workforce analytics and
 
 ## Executive Dashboard
 
-![Executive Dashboard](Hr/Images/Screenshot b.png)
+![Executive Dashboard](Hr/Images/Screenshot%20b.png)
 
 ## Attrition Analysis
 
-![Attrition Analysis](Hr/Images/Screenshot c.png)
+![Attrition Analysis](Hr/Images/Screenshot%20c.png)
 
 ## Compensation & Benefits
 
-![Compensation & Benefits](Hr/Images/Screenshot d.png)
+![Compensation & Benefits](Hr/Images/Screenshot%20d.png)
 
 ## Performance & Career Growth
 
-![Performance & Career Growth](Hr/Images/Screenshot e.png)
+![Performance & Career Growth](Hr/Images/Screenshot%20e.png)
 
 ## Work-Life Engagement
 
-![Work-Life Engagement](Hr/Images/Screenshot f.png)
+![Work-Life Engagement](Hr/Images/Screenshot%20f.png)
 
 ---
 
